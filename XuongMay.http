@@ -1,6 +1,0 @@
-@XuongMay_HostAddress = http://localhost:5114
-
-GET {{XuongMay_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
