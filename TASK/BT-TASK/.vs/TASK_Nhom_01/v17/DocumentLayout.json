@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\repositories\\mayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\repositories\\mayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\repositories\\imayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\repositories\\imayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|c:\\users\\minhn\\desktop\\task1\\task\\bt-task\\task_nhom_01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01325DB0-A2BE-4FB6-AA3B-7CE7FD7B68D6}|TASK_Nhom_01\\TASK_Nhom_01.csproj|solutionrelative:task_nhom_01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:38:20.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:56:38.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:38:25.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:13:21.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMayRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\IMayRepository.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Repositories\\IMayRepository.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\IMayRepository.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Repositories\\IMayRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:22:25.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MayRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\MayRepository.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Repositories\\MayRepository.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\MayRepository.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Repositories\\MayRepository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:23:39.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Program.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Program.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Program.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:24:46.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:49:42.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:10:11.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Data\\Order.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Data\\Order.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Data\\Order.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Data\\Order.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:10:44.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Helpers\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Helpers\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Helpers\\ApplicationMapper.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Helpers\\ApplicationMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:12:28.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Models\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:13:02.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Models\\SignInModel.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Models\\SignInModel.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Models\\SignInModel.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Models\\SignInModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:29:19.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:20:04.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:21:19.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:21:49.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Models\\OrderModel.cs",
+              "RelativeToolTip": "TASK_Nhom_01\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:13:04.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TASK_Nhom_01\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\minhn\\Desktop\\TASK1\\TASK\\BT-TASK\\TASK_Nhom_01\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TASK_Nhom_01\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T10:52:38.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
